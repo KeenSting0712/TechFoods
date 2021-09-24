@@ -11,3 +11,4 @@
 - [关于MQ的几件小事（五）如何保证消息按顺序执行](https://www.jianshu.com/p/02fdcb9e8784)
 - [关于MQ的几件小事（六）消息积压在消息队列里怎么办](https://www.jianshu.com/p/07b2169bef49)
 - [关于MQ的几件小事（七）如果让你设计一个MQ，你怎么设计](https://www.jianshu.com/p/08ef2219411f)
+- [聊聊 Kafka： Kafka 为啥这么快？](https://www.jianshu.com/p/53b8ec516a0b)
